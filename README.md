@@ -1,1 +1,1 @@
-blazor serverside application for pizza store (not finished yet)
+blazor serverside application for a pizza delivery service (not finished yet)
